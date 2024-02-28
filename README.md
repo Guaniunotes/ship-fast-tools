@@ -42,7 +42,7 @@
 ## 5. 部署和托管服务
 
 - 云计算平台：Amazon Web Services (AWS), Microsoft Azure, Google Cloud Platform (GCP)
-- 托管服务：Heroku, Netlify, Vercel
+- 托管服务：Vercel, Fastly, Netlify, Cloudflare, SST, Fly, Render, Railway,DigitalOcean
 - 容器和编排工具：Docker, Kubernetes
 
 ## 6. API和库
@@ -56,6 +56,16 @@
 - 图形设计：Adobe Photoshop, Illustrator, Sketch
 - 原型设计：Adobe XD, Figma, InVision
 
+## 8. 收款工具
+
+- [LemonSqueezy](https://www.lemonsqueezy.com/)  
+- [Buy Me a coffee](https://www.buymeacoffee.com/) 
+- Stripe
+- Paddle
+
+## 9. 时间管理
+
+- Cal.com
 ---
 
 以上是一些常用的快速开发应用工具，您可以根据自己的需求和项目特点进行选择和使用。祝您开发愉快！

@@ -1,4 +1,4 @@
-# Ship Fast Tools [:rocket:]
+# Ship Fast Tools &#58;rocket:
 欢迎关注Ship Fast Tools
 这里汇集了各种帮助您快速开发应用的工具。无论您是初学者还是有经验的开发者，希望这些工具都能为您节省时间和精力。
 
@@ -50,6 +50,10 @@
 - 开放API：Google Maps API, Twitter API, OpenWeatherMap API
 - JavaScript库：lodash, Axios, Moment.js, Chart.js
 - Python库：NumPy, Pandas, Matplotlib, TensorFlow
+
+## 7. 插件工具
+
+- 评论系统：[Disqus](https://disqus.com/)
 
 ## 7. 设计工具
 

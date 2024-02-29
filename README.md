@@ -1,4 +1,4 @@
-# Ship Fast Tools &#58;rocket:
+# Ship Fast Tools :rocket:
 欢迎关注Ship Fast Tools
 这里汇集了各种帮助您快速开发应用的工具。无论您是初学者还是有经验的开发者，希望这些工具都能为您节省时间和精力。
 

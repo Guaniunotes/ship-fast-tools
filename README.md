@@ -1,6 +1,6 @@
-# Ship Fast Tools  🚀
-欢迎关注Ship Fast Tools
-这里汇集了各种帮助您快速开发应用的工具。无论您是初学者还是有经验的开发者，希望这些工具都能为您节省时间和精力。
+# Ship Fast Tools  
+欢迎关注Ship Fast Tools [:rocket:]  
+这里汇集了当下流行的快速开发应用的工具。无论您是初学者还是有经验的开发者，希望这些工具都能为您节省时间和精力。
 
 
 ## 目录
@@ -17,17 +17,15 @@
 
 - Visual Studio Code
 - Sublime Text
-- Atom
-- Vim
-- Emacs
 
-## 2. 前端开发工具
+
+## 2. 前端工具
 
 - HTML/CSS/JavaScript框架：Bootstrap, Tailwind CSS, Vue.js, React.js, Angular
-- 前端构建工具：Webpack, Parcel, Rollup
+- 前端构建工具：[Next.js](https://nextjs.org/), [Astro](https://astro.build/)
 - 浏览器扩展和调试工具：Chrome Developer Tools, Firefox Developer Tools
 
-## 3. 后端开发工具
+## 3. 后端工具
 
 - 服务器端语言：Node.js, Python, Ruby, Java, PHP
 - 后端框架：Express.js, Django, Ruby on Rails, Spring Boot, Laravel
@@ -55,19 +53,19 @@
 
 - 评论系统：[Disqus](https://disqus.com/)
 
-## 7. 设计工具
+## 8. 设计工具
 
 - 图形设计：Adobe Photoshop, Illustrator, Sketch
 - 原型设计：Adobe XD, Figma, InVision
 
-## 8. 收款工具
+## 9. 收款工具
 
 - [LemonSqueezy](https://www.lemonsqueezy.com/)  
 - [Buy Me a coffee](https://www.buymeacoffee.com/) 
 - Stripe
 - Paddle
 
-## 9. 时间管理
+## 10. 时间管理
 
 - Cal.com
 ---

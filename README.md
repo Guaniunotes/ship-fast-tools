@@ -21,9 +21,8 @@
 
 ## 2. 前端工具
 
-- HTML/CSS/JavaScript框架：Bootstrap, Tailwind CSS, Vue.js, React.js, Angular
-- 前端构建工具：[Next.js](https://nextjs.org/), [Astro](https://astro.build/)
-- 浏览器扩展和调试工具：Chrome Developer Tools, Firefox Developer Tools
+- CSS框架：Bootstrap, Tailwind CSS
+- 前端框架：[Next.js](https://nextjs.org/), [Astro](https://astro.build/)
 
 ## 3. 后端工具
 
@@ -33,25 +32,22 @@
 
 ## 4. 数据库管理工具
 
-- 关系型数据库：MySQL, PostgreSQL, SQLite
-- NoSQL数据库：MongoDB, Redis, Cassandra
-- 数据库管理客户端：DBeaver, TablePlus, pgAdmin
+- [Supabase](https://supabase.com/)
 
 ## 5. 部署和托管服务
 
 - 云计算平台：Amazon Web Services (AWS), Microsoft Azure, Google Cloud Platform (GCP)
-- 托管服务：Vercel, Fastly, Netlify, Cloudflare, SST, Fly, Render, Railway,DigitalOcean
-- 容器和编排工具：Docker, Kubernetes
+- 托管服务：[Vercel](https://vercel.com/), Fastly, Netlify, Cloudflare, SST, Fly, Render, Railway,DigitalOcean
+- 容器：Docker
 
 ## 6. API和库
 
-- 开放API：Google Maps API, Twitter API, OpenWeatherMap API
-- JavaScript库：lodash, Axios, Moment.js, Chart.js
-- Python库：NumPy, Pandas, Matplotlib, TensorFlow
+- 
 
 ## 7. 插件工具
 
 - 评论系统：[Disqus](https://disqus.com/)
+- 在线客服：[Chatbase](https://www.chatbase.co/)
 
 ## 8. 设计工具
 
@@ -62,8 +58,8 @@
 
 - [LemonSqueezy](https://www.lemonsqueezy.com/)  
 - [Buy Me a coffee](https://www.buymeacoffee.com/) 
-- Stripe
-- Paddle
+- [Stripe](https://stripe.com/)
+
 
 ## 10. 时间管理
 

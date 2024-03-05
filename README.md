@@ -10,8 +10,10 @@
 3. [后端开发工具](#3-后端开发工具)
 4. [数据库管理工具](#4-数据库管理工具)
 5. [部署和托管服务](#5-部署和托管服务)
-6. [API和库](#6-api和库)
+6. [插件工具](#6-插件工具)
 7. [设计工具](#7-设计工具)
+8. [收款工具](#8-收款工具)
+9. [时间管理](#9-时间管理)
 
 ## 1. 代码编辑器
 
@@ -40,30 +42,26 @@
 - 托管服务：[Vercel](https://vercel.com/), Fastly, Netlify, Cloudflare, SST, Fly, Render, Railway,DigitalOcean
 - 容器：Docker
 
-## 6. API和库
-
-- 
-
-## 7. 插件工具
+## 6. 插件工具
 
 - 评论系统：[Disqus](https://disqus.com/)
 - 在线客服：[Chatbase](https://www.chatbase.co/)
 
-## 8. 设计工具
+## 7. 设计工具
 
 - 图形设计：Adobe Photoshop, Illustrator, Sketch
 - 原型设计：Adobe XD, Figma, InVision
 
-## 9. 收款工具
+## 8. 收款工具
 
 - [LemonSqueezy](https://www.lemonsqueezy.com/)  
 - [Buy Me a coffee](https://www.buymeacoffee.com/) 
 - [Stripe](https://stripe.com/)
 
 
-## 10. 时间管理
+## 9. 时间管理
 
-- Cal.com
+- [Cal.com](https://cal.com/)
 ---
 
 以上是一些常用的快速开发应用工具，您可以根据自己的需求和项目特点进行选择和使用。祝您开发愉快！
